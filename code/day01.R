@@ -1,5 +1,6 @@
 x <- rnorm(100)
 mean(x)
+var(x)
 
 beta_0 <- 1
 beta_1 <- 0.5
